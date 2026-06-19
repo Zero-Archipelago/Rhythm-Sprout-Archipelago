@@ -1,0 +1,7 @@
+GAME_NAME: str = "RHYTHM SPROUT"
+START_REGION: str = "Menu"
+THEME_NAME: str = "grass"
+ITEMS_FILE: str = "data/items.json"
+REGIONS_FILE: str = "data/regions.json"
+LOCATIONS_FILE: str = "data/locations.json"
+AP_CONFIG_FILE: str = "archipelago.json"
